@@ -1,0 +1,8 @@
+**DNA digital data storage** is the process of encoding and decoding binary data to and from synthesized strands of [DNA](https://en.wikipedia.org/wiki/DNA "DNA").
+While DNA as a storage medium has enormous potential because of its high storage density, its practical use is currently severely limited because of its high cost and very slow read and write times.
+
+In June 2019, scientists reported that all 16 GB of text from the [English Wikipedia](https://en.wikipedia.org/wiki/English_Wikipedia "English Wikipedia") had been encoded into [synthetic DNA](https://en.wikipedia.org/wiki/Synthetic_DNA "Synthetic DNA").[[4]](https://en.wikipedia.org/wiki/DNA_digital_data_storage#cite_note-CNET-20190629-4) In 2021, scientists reported that a custom DNA data writer had been developed that was capable of writing data into DNA at 18 Mbps.[[5]](https://en.wikipedia.org/wiki/DNA_digital_data_storage#cite_note-biorxiv.org-5)
+
+## Encoding methods
+
+Countless methods for encoding data in DNA are possible. The optimal methods are those that make economical use of DNA and protect against errors.[[6]](https://en.wikipedia.org/wiki/DNA_digital_data_storage#cite_note-Smith2003-6) If the message DNA is intended to be stored for a long period of time, for example, 1,000 years, it is also helpful if the sequence is obviously artificial and the reading frame is easy to identify.[[6]](https://en.wikipedia.org/wiki/DNA_digital_data_storage#cite_note-Smith2003-6)
